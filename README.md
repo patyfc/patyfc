@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ###
-I have a Bachelor’s Degree in Computer Information Systems back in Brazil. I moved to Calgary to study the two-year New Media Production and Design program at Southern Alberta Institute of Technology. My main goal is to gain knowledge and develop my skills.
-Currently, I am working as a Web Services Coordinator, but I have a new career goal, and I have been studying to become a DevOps.
+I have a Bachelor’s Degree in Computer Information Systems back in Brazil. I moved to Calgary to study the two-year New Media Production and Design program at Southern Alberta Institute of Technology.
+Currently, I am diligently studying and acquiring skills in cloud computing to make a career transition into this dynamic field. With a strong foundation in technology and a keen interest in cutting-edge advancements, I have a solid understanding of various IT concepts, including systems administration, network administration, and virtualization.
