@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ###
-I have a Bachelor’s Degree in Computer Information Systems back in Brazil. I moved to Calgary to study the two-year New Media Production and Design program at Southern Alberta Institute of Technology.
-Currently, I am diligently studying and acquiring skills in cloud computing to make a career transition into this dynamic field. With a strong foundation in technology and a keen interest in cutting-edge advancements, I have a solid understanding of various IT concepts, including systems administration, network administration, and virtualization.
+I have over 14 years of experience in IT, with a proven track record in project management, ensuring web content security, providing responsive technical support, troubleshooting IT issues, and documenting software failures. I have a strong foundation in technology and a keen interest in staying updated with the latest advancements. Additionally, I hold multiple certifications, including AWS Cloud Practitioner, ISC2 Certified in Cybersecurity, and Customer Service: Problem Solving and Troubleshooting.
+
+My current role involves developing and implementing projects to optimize operational processes and performance, providing technical support, answering inquiries from sales representatives and customers, and ensuring the quality and reliability of web deliverables. I have proficiently utilized WordPress, HTML, JS, CSS, PHP, and XML to create and update website content, troubleshoot issues, and collaborate with cross-functional teams.
+
+In addition to my IT background, I am also passionate about photography and visual media. Photography has been a hobby of mine for years, and it has taught me to see the world from different perspectives. This passion gives me a unique perspective and an eye for detail that can positively contribute to any project or team.
